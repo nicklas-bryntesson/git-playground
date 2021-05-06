@@ -10,4 +10,4 @@
 wp-content/*
 !wp-content/themes
 wp-content/themes/*
-!wp-content/themes/twentynineteen
+!wp-content/themes/twentytwenty
