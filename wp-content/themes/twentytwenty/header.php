@@ -57,7 +57,7 @@
 					<?php } ?>
 
 					<div class="header-titles">
-
+						<div class="logo-wrapper">
 						<?php
 							// Site title or logo.
 							twentytwenty_site_logo();
@@ -65,6 +65,7 @@
 							// Site description.
 							twentytwenty_site_description();
 						?>
+						</div>
 
 					</div><!-- .header-titles -->
 
