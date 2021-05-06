@@ -62,7 +62,7 @@ get_header();
 			<div class="archive-header-inner section-inner medium">
 
 				<?php if ( $archive_title ) { ?>
-					<h1 class="archive-title"><?php echo wp_kses_post( $archive_title ); ?></h1>
+					<h2 class="archive-title testClass"><?php echo wp_kses_post( $archive_title ); ?></h2>
 				<?php } ?>
 
 				<?php if ( $archive_subtitle ) { ?>
