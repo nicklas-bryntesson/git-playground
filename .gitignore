@@ -11,6 +11,3 @@ wp-content/*
 !wp-content/themes
 wp-content/themes/*
 !wp-content/themes/wprig
-
-# ignore node dependency directories (used by grunt)
-node_modules/
