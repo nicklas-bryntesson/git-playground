@@ -57,7 +57,7 @@
 					<?php } ?>
 
 					<div class="header-titles">
-						<div class="logo-wrapper">
+						<div class="logo-wrapper testClass itsFriday">
 						<?php
 							// Site title or logo.
 							twentytwenty_site_logo();
