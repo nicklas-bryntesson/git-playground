@@ -125,9 +125,9 @@ html {
 }
 
 body {
-	background: pink;
+	background: lightgoldenrodyellow;
 	box-sizing: border-box;
-	color: hotpink;
+	color: #000;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 1.8rem;
 	letter-spacing: -0.015em;
